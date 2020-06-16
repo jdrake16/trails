@@ -6,7 +6,7 @@
   android:fillViewport="false">
 
 <LinearLayout
-  xmlns:android="http://schemas.android.com/apk/res/android"
+
   xmlns:app="http://schemas.android.com/apk/res-auto"
   xmlns:tools="http://schemas.android.com/tools"
   android:layout_width="match_parent"
@@ -33,7 +33,7 @@
     android:layout_height="wrap_content"
     android:text="Trail Info 2"
 
-    android:layout_marginTop="55dp"
+    android:layout_marginTop="50dp"
     />
 
   <TextView
@@ -42,7 +42,7 @@
     android:layout_height="wrap_content"
     android:text="Trail Info 3"
 
-    android:layout_marginTop="60dp"
+    android:layout_marginTop="50dp"
     />
 
   <TextView
@@ -51,7 +51,7 @@
     android:layout_height="wrap_content"
     android:text="Trail Info 4"
 
-    android:layout_marginTop="65dp"
+    android:layout_marginTop="50dp"
     />
 
   <TextView
@@ -60,7 +60,7 @@
     android:layout_height="wrap_content"
     android:text="Trail Info 5"
 
-    android:layout_marginTop="70dp"
+    android:layout_marginTop="50dp"
     />
 
   <TextView
@@ -69,7 +69,7 @@
     android:layout_height="wrap_content"
     android:text="Trail Info 6"
 
-    android:layout_marginTop="75dp"
+    android:layout_marginTop="50dp"
     />
 
   <TextView
@@ -78,7 +78,7 @@
     android:layout_height="wrap_content"
     android:text="Trail Info 7"
 
-    android:layout_marginTop="80dp"
+    android:layout_marginTop="50dp"
     />
 
   <TextView
@@ -87,7 +87,25 @@
     android:layout_height="wrap_content"
     android:text="Trail Info 8"
 
-    android:layout_marginTop="85dp"
+    android:layout_marginTop="50dp"
+    />
+
+  <TextView
+    android:id="@+id/info9"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Trail Info 9"
+
+    android:layout_marginTop="50dp"
+    />
+
+  <TextView
+    android:id="@+id/info10"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Trail Info 10"
+
+    android:layout_margin="50dp"
     />
 
 
