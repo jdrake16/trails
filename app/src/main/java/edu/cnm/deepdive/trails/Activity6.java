@@ -25,7 +25,7 @@ public class Activity6 extends AppCompatActivity implements View.OnDragListener,
     //Find all views and set Tag to all draggable views
 
     Button btn = (Button) findViewById(R.id.btnDrag);
-    btn.setTag("DRAGGABLE BUTTON");
+    btn.setTag(" MOVE IT MOVE IT");
     btn.setOnLongClickListener(this);
     //Set Drag Event Listeners for defined layouts
     findViewById(R.id.layout1).setOnDragListener(this);
@@ -100,7 +100,7 @@ public class Activity6 extends AppCompatActivity implements View.OnDragListener,
         // Gets the text data from the item.
         String dragData = item.getText().toString();
         // Displays a message containing the dragged data.
-        Toast.makeText(this, "Dragged data is " + dragData, Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "I like to" + dragData, Toast.LENGTH_SHORT).show();
         // Turns off any color tints
         v.getBackground().clearColorFilter();
         // Invalidates the view to force a redraw

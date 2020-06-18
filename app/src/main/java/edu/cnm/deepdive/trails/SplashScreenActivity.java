@@ -17,11 +17,11 @@ public class SplashScreenActivity extends AppCompatActivity {
             .withFullScreen()
             .withTargetActivity(MainActivity.class)
             .withSplashTimeOut(5000)
-            .withBackgroundColor(Color.parseColor("#1a1b29"))
-            .withHeaderText("Header")
-            .withFooterText("Footer")
-            .withBeforeLogoText("Before Logo Text")
-            .withAfterLogoText("After Logo Text")
+            .withBackgroundColor(Color.parseColor("#30FF37"))
+            .withHeaderText("CNM DDC")
+            .withFooterText("JA COHORT 10")
+            .withBeforeLogoText("Welcome To")
+            .withAfterLogoText("NM Trailmaster")
             .withLogo(R.mipmap.ic_launcher_round);
         config.getHeaderTextView().setTextColor(Color.WHITE);
         config.getFooterTextView().setTextColor(Color.WHITE);
