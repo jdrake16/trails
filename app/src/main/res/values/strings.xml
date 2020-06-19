@@ -1,11 +1,44 @@
 <resources>
   <string name="app_name">Trails</string>
   <string name="draggable_button">Mobile Community</string>
-  <string name="camp_info_1">Camp Info 1</string>
-  <string name="camp_info_2">Camp Info 2</string>
-  <string name="camp_info_3">Camp Info 3</string>
-  <string name="camp_info_4">Camp Info 4</string>
-  <string name="camp_info_5">Camp Info 5</string>
+  <string name="camp_info_1">Camp Info 1 Manzano Mountains, New Mexico
+[38.3miles*]
+New Mexico State Parks
+Centrally located, this peaceful, secluded park in the Ponderosa pine forest of the Manzano Mountains will relax and invigorate you. Get away for a weekend, or make us a stop on your road trip.
+Activities and Amenities:
+Dump StationHandicap AccessHiking TrailsModern RestroomsPark Office</string>
+  <string name="camp_info_2">Camp Info 2 Fenton Lake State Park, New Mexico
+[53.92miles*]
+New Mexico State Parks
+.
+Activities and Amenities:
+BoatingCanoeingFire RingsFishingHandicap AccessHikingModern RestroomsParkingPicnic TablesPlaygroundSail BoatingToilet, Pit/VaultWildlife Viewing
+13 matching sites
+Has sites with: Accessible, Electric Hookup(30), Max Occupants(7), Pets Allowed(Y), Waterfront.</string>
+  <string name="camp_info_3">Camp Info 3 Hyde Memorial, New Mexico
+[63.2miles*]
+New Mexico State Parks
+None
+Activities and Amenities:
+Bird WatchingCross Country SkiiingCross Country SkiingDump StationFire RingsHiking TrailInformation CenterInterpretive ProgramsLaw Enforcement RangersPark OfficeParkingPicnic AreasPicnic TablesPlaygroundPotable WaterRanger ProgramsSnowshoeing TrailsStanding GrillToilet, Pit/VaultTubing RunVolleyballWildlife Viewing
+7 matching sites
+Has sites with: Electric Hookup(20), Max Occupants(7), Pets Allowed(Y).</string>
+  <string name="camp_info_4">Camp Info 4 Villanueva, New Mexico
+[73.07miles*]
+New Mexico State Parks
+None
+Activities and Amenities:
+Bath HouseBird WatchingDump StationFishingHiking TrailInformation CenterInterpretive ProgramsModern RestroomsPlaygroundShowersToilet, FlushToilet, Pit/VaultWild Flower ViewingWildlife Viewing
+6 matching sites
+Has sites with: Electric Hookup(30), Max Occupants(7), Pets Allowed(Y), Waterfront.</string>
+  <string name="camp_info_5">Camp Info 5 Bluewater Lake, New Mexico
+[83.73miles*]
+New Mexico State Parks
+None
+Activities and Amenities:
+BoatingCanoeingCourtesy DocksDump StationFishingHiking TrailIcefishingInformation CenterModern RestroomsPark OfficePicnic AreasPlaygroundSailingShowersWater SkiingWatersportsWildlife Viewing
+17 matching sites
+Has sites with: Electric Hookup(30), Max Occupants(7), Pets Allowed(Y), Waterfront.</string>
   <string name="trail_info_1">Trail Info 1</string>
   <string name="trail_info_2">Trail Info 2</string>
   <string name="trail_info_3">Trail Info 3</string>
@@ -16,4 +49,10 @@
   <string name="trail_info_8">Trail Info 8</string>
   <string name="trail_info_9">Trail Info 9</string>
   <string name="trail_info_10">Trail Info 10</string>
+  <string name="campmaster">Campmaster</string>
+  <string name="camping2">View Camp sites</string>
+  <string name="community_posts">Community Posts</string>
+  <string name="community2">Community2</string>
+  <string name="trailmaster">Trailmaster</string>
+  <string name="trails2">ABQ Trails</string>
 </resources>

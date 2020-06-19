@@ -11,19 +11,21 @@
     android:id="@+id/options"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
-    android:text="Community Posts"
+    android:text="@string/community_posts"
     android:layout_marginTop="150dp"
+    android:textSize="40sp"
     app:layout_constraintEnd_toEndOf="parent"
     app:layout_constraintStart_toStartOf="parent"
-    app:layout_constraintTop_toTopOf="parent"/>
+    app:layout_constraintTop_toTopOf="parent"
+    android:padding="15dp"/>
 
 
   <Button
     android:id="@+id/butt6"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
-    android:text="Community2"
-    android:background="@drawable/button_background"
+    android:text="@string/community2"
+    android:background="@drawable/butt_background_three"
     app:layout_constraintTop_toBottomOf="@+id/options"
     app:layout_constraintEnd_toEndOf="parent"
     app:layout_constraintStart_toStartOf="parent"/>
