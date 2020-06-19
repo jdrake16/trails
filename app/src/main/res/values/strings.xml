@@ -1,4 +1,19 @@
 <resources>
   <string name="app_name">Trails</string>
   <string name="draggable_button">Mobile Community</string>
+  <string name="camp_info_1">Camp Info 1</string>
+  <string name="camp_info_2">Camp Info 2</string>
+  <string name="camp_info_3">Camp Info 3</string>
+  <string name="camp_info_4">Camp Info 4</string>
+  <string name="camp_info_5">Camp Info 5</string>
+  <string name="trail_info_1">Trail Info 1</string>
+  <string name="trail_info_2">Trail Info 2</string>
+  <string name="trail_info_3">Trail Info 3</string>
+  <string name="trail_info_4">Trail Info 4</string>
+  <string name="trail_info_5">Trail Info 5</string>
+  <string name="trail_info_6">Trail Info 6</string>
+  <string name="trail_info_7">Trail Info 7</string>
+  <string name="trail_info_8">Trail Info 8</string>
+  <string name="trail_info_9">Trail Info 9</string>
+  <string name="trail_info_10">Trail Info 10</string>
 </resources>

@@ -12,54 +12,59 @@
     android:layout_height="wrap_content"
     android:id="@+id/layout"
     android:orientation="vertical"
-    android:gravity="center_horizontal"
+    android:layout_gravity="left"
+
     tools:context=".MainActivity">
 
 
     <TextView
       android:id="@+id/campinfo"
-      android:layout_width="wrap_content"
+      android:layout_width="match_parent"
       android:layout_height="wrap_content"
-      android:text="Camp Info 1"
+      android:text="@string/camp_info_1"
 
 
-      android:layout_marginTop="50dp"
+
+      android:layout_margin="50dp"
       />
 
     <TextView
       android:id="@+id/campinfo2"
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
-      android:text="Camp Info 2"
+      android:text="@string/camp_info_2"
 
-      android:layout_marginTop="50dp"
+      android:layout_margin="50dp"
       />
 
     <TextView
       android:id="@+id/campinfo3"
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
-      android:text="Camp Info 3"
+      android:text="@string/camp_info_3"
 
-      android:layout_marginTop="50dp"
+      android:layout_margin="50dp"
       />
 
     <TextView
       android:id="@+id/campinfo4"
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
-      android:text="Camp Info 4"
+      android:text="@string/camp_info_4"
 
-      android:layout_marginTop="50dp"
+      android:layout_margin="50dp"
       />
 
     <TextView
       android:id="@+id/campinfo5"
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
-      android:text="Camp Info 5"
+      android:text="@string/camp_info_5"
+
+
 
       android:layout_margin="50dp"
+
       />
 
 
