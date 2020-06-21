@@ -52,7 +52,9 @@ Has sites with: Electric Hookup(30), Max Occupants(7), Pets Allowed(Y), Waterfro
   <string name="campmaster">Campmaster</string>
   <string name="camping2">View Camp sites</string>
   <string name="community_posts">Community Posts</string>
-  <string name="community2">Community2</string>
+  <string name="community2">Community Button</string>
   <string name="trailmaster">Trailmaster</string>
   <string name="trails2">ABQ Trails</string>
+  <string name="the_grid">the grid</string>
+  <string name="to_the_grid">To The Grid</string>
 </resources>
