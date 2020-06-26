@@ -25,5 +25,19 @@ public class Activity2 extends AppCompatActivity {
       }
     });
 
+
+    butt13.setOnClickListener(new OnClickListener() {
+      @Override
+      public void onClick(View v) {
+        Intent int13 = new Intent(Activity2.this,Activity13.class);
+        startActivity(int13);
+      }
+    });
+
+
+
+
+
+
   }
 }
