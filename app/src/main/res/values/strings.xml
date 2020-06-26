@@ -34,38 +34,106 @@ Activities
 •	Historic/Cultural Site
 •	Biking
 </string>
-  <string name="camp_info_2">Camp Info 2 Fenton Lake State Park, New Mexico
-[53.92miles*]
-New Mexico State Parks
-.
-Activities and Amenities:
-BoatingCanoeingFire RingsFishingHandicap AccessHikingModern RestroomsParkingPicnic TablesPlaygroundSail BoatingToilet, Pit/VaultWildlife Viewing
-13 matching sites
-Has sites with: Accessible, Electric Hookup(30), Max Occupants(7), Pets Allowed(Y), Waterfront.</string>
-  <string name="camp_info_3">Camp Info 3 Hyde Memorial, New Mexico
-[63.2miles*]
-New Mexico State Parks
-None
-Activities and Amenities:
-Bird WatchingCross Country SkiiingCross Country SkiingDump StationFire RingsHiking TrailInformation CenterInterpretive ProgramsLaw Enforcement RangersPark OfficeParkingPicnic AreasPicnic TablesPlaygroundPotable WaterRanger ProgramsSnowshoeing TrailsStanding GrillToilet, Pit/VaultTubing RunVolleyballWildlife Viewing
-7 matching sites
-Has sites with: Electric Hookup(20), Max Occupants(7), Pets Allowed(Y).</string>
-  <string name="camp_info_4">Camp Info 4 Villanueva, New Mexico
-[73.07miles*]
-New Mexico State Parks
-None
-Activities and Amenities:
-Bath HouseBird WatchingDump StationFishingHiking TrailInformation CenterInterpretive ProgramsModern RestroomsPlaygroundShowersToilet, FlushToilet, Pit/VaultWild Flower ViewingWildlife Viewing
-6 matching sites
-Has sites with: Electric Hookup(30), Max Occupants(7), Pets Allowed(Y), Waterfront.</string>
-  <string name="camp_info_5">Camp Info 5 Bluewater Lake, New Mexico
-[83.73miles*]
-New Mexico State Parks
-None
-Activities and Amenities:
-BoatingCanoeingCourtesy DocksDump StationFishingHiking TrailIcefishingInformation CenterModern RestroomsPark OfficePicnic AreasPlaygroundSailingShowersWater SkiingWatersportsWildlife Viewing
-17 matching sites
-Has sites with: Electric Hookup(30), Max Occupants(7), Pets Allowed(Y), Waterfront.</string>
+  <string name="camp_info_2">2. Black Canyon ($10 A Night)
+
+For campground inquiries, please call: 505-753-7331
+Season Dates
+Black Canyon facility is open during the following season(s):
+•	May 01, 2020 – October 18, 2020 (Peak Season)
+Overview
+Black Canyon Campground is in a great location to experience some of the finest mountain scenery the Southwest has to offer. The facility is newly renovated and provides access to a variety of outdoor recreational activities.
+
+Facilities
+The campground offers many single and double-family sites, most of which are accessible. Some sites are designated as walk-to sites for tent camping only. A few are available on a first-come, first-served basis. Each site is equipped with a table and campfire ring with grill. Accessible vault toilets and drinking water are provided. The highway to the campground is paved. The campground is adjacent to New Mexicos Hyde State Park, where a dump station is available.
+
+Natural Features
+The campground is situated in a forest of pine, aspen and fir trees. A good mix of sun and shade is found throughout the area. Many beautiful views are found in the surrounding forest.
+
+Recreation
+Hikers enjoy a pleasant hiking 1.5-mile trail that loops around the campground and into the surrounding forest. Several additional hiking, mountain biking and horseback riding trails are located nearby. The Pecos Wilderness can be accessed eight miles from the campground, with many trails leading to majestic peaks and through valleys, canyons and forested groves. Many recreation opportunities exist along Highway 475, both above and below Black Canyon Campground, including hiking and biking trails and picnic areas. In the winter, the area offers both Nordic and alpine skiing.
+
+
+Activities
+•	Hiking
+•	Camping
+•	Biking
+</string>
+  <string name="camp_info_3">3. Clear Creek Campground ($10-$35 A Night)
+    Season Dates
+Clear Creek Campground (NM) facility is open during the following season(s):
+•	May 15, 2020 – September 14, 2020 (Peak Season)
+•	September 15, 2020 – September 30, 2020 (First-come, First-served)
+
+Overview
+Less than two hours from the city of Albuquerque, Clear Creek Campground offers a cool oasis from the New Mexico heat. Visitors delight in the hiking and fishing opportunities available in the shade of the pine covered Jemez Mountains.
+
+Facilities
+Clear Creek Campground includes paved RV pads, fire rings, picnic tables, and vault toilets.
+
+Natural Features
+The campground is located amid stunning ponderosa pines in close proximity to Clear Creek.
+
+Recreation
+Local streams and the San Gregorio reservoir provide fishing opportunities for anglers, and hikers will delight in the many hiking opportunities in the nearby San Pedro Parks Wilderness.
+
+
+Activities
+•	Hunting
+•	Horseback Riding
+•	Hiking
+•	Fishing
+•	Camping
+</string>
+  <string name="camp_info_4">4. Columbine Campground (NM) ($20 A Night)
+
+Season Dates
+Columbine Campground (NM) facility is open during the following season(s):
+•	May 22, 2020 – September 13, 2020 (Peak Season)
+
+Overview
+Columbine Campground is located between Questa and Red River, New Mexico. The Red River flows past the campground and a trailhead leads into the Columbine-Hondo Wilderness area. Columbine Campground sits at 7,900 feet in elevation.
+
+Facilities
+This campground offers 26 single sites, potable water, and vault toilets. Each site is has a fire ring, picnic table, and tent pad. Please note that no water can be filled directly into a trailer, rv, or motorhome anywhere in this campground - the potable water is only for filling containers you bring back to your site.
+
+Natural Features
+The campground is composed of two loops. One small loop at the campground entrance, has all open sites and views of the towering mountains. The other is a long loop up the canyon along the fast-flowing Columbine Creek. The campsites in this loop are tucked in among pine, spruce and some aspen providing ample shade and good privacy between campsites.
+
+Recreation
+The Columbine Twining hiking trail can be found at the south end of the campground and gives access to 14 miles of hiking trails and leads into the Columbine-Hondo Wilderness area. The Red River runs near the campground and can be accessed near the first loop.
+
+
+Activities
+•	Wildlife Viewing
+•	Visitor Center
+•	Hiking
+•	Fishing
+•	Camping
+</string>
+  <string name="camp_info_5">5. Elephant Rock Campground ($20 A Night)
+Season Dates
+Elephant Rock Campground facility is open during the following season(s):
+•	May 15, 2020 – September 06, 2020 (Non-Peak Season)
+
+Overview
+Elephant Rock Campground has excellent fishing access to the well-stocked Red River, nearby Eagle Rock Lake and hiking into the surrounding high country. This campground is close to the highway with plenty of large pine trees. The campground rests at 8,400 feet above sea level.
+
+Facilities
+This campground offers 20 single sites, potable water, and vault toilets. Each site has a fire ring, picnic table, and tent pad.
+
+Natural Features
+Elephant Rock Campground is a single loop that meanders up a hillside with several sites featuring stone terracing. The campsites are tucked in among a mixture of ponderosa pine, aspen, fir and spruce. The Red River flows near this campground.
+
+Recreation
+The nearest hiking trail, Fawn Lakes Trail, is located .3 miles east of Elephant Rock Campground, near Fawn Lakes Campground. This trail meets accessibility guidelines. Elephant Rock offers convenient access to State Rt. 38 and is well situated for day trips on the Enchanted Circle and to the town of Red River. The Red River is across the road from the campground but is not accessible.
+
+
+Activities
+•	Visitor Center
+•	Fishing
+•	Camping
+•	Biking
+</string>
   <string name="trail_info_1">Trail Info 1</string>
   <string name="trail_info_2">Trail Info 2</string>
   <string name="trail_info_3">Trail Info 3</string>
@@ -84,4 +152,9 @@ Has sites with: Electric Hookup(30), Max Occupants(7), Pets Allowed(Y), Waterfro
   <string name="trails2">ABQ Trails</string>
   <string name="the_grid">the grid</string>
   <string name="to_the_grid">To The Coffee!</string>
+  <string name="jemez_national_forrest">Jemez National Forrest</string>
+  <string name="black_canyon">Black Canyon</string>
+  <string name="clear_creek_campground">Clear Creek Campground</string>
+  <string name="columbine_campground">Columbine Campground</string>
+  <string name="elephant_rock">Elephant Rock</string>
 </resources>

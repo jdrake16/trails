@@ -6,7 +6,6 @@
   android:fillViewport="false">
 
   <LinearLayout
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
@@ -19,9 +18,9 @@
       android:id="@+id/butt8"
       android:layout_width="match_parent"
       android:layout_height="wrap_content"
-      android:text="Jemez National Forrest"
+      android:text="@string/jemez_national_forrest"
       android:background="@drawable/butt_background_three"
-      android:layout_margin="30dp"
+      android:layout_margin="8dp"
       />
 
     <ImageView
@@ -29,16 +28,18 @@
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
       android:src="@drawable/jemez_pic"
-      android:layout_margin="10dp"
+      android:scaleType="centerInside"
+      android:adjustViewBounds="true"
+      android:layout_margin="8dp"
       />
 
     <Button
       android:id="@+id/butt9"
       android:layout_width="match_parent"
       android:layout_height="wrap_content"
-      android:text="Black Canyon"
+      android:text="@string/black_canyon"
       android:background="@drawable/butt_background_three"
-      android:layout_margin="30dp"
+      android:layout_margin="8dp"
       />
 
     <ImageView
@@ -46,59 +47,69 @@
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
       android:src="@drawable/black_canyon"
-      android:layout_margin="10dp"
+      android:scaleType="centerInside"
+      android:adjustViewBounds="true"
+      android:layout_margin="8dp"
       />
 
     <Button
       android:id="@+id/butt10"
       android:layout_width="match_parent"
       android:layout_height="wrap_content"
-      android:text="Hyde Memorial"
+      android:text="@string/clear_creek_campground"
       android:background="@drawable/butt_background_three"
-      android:layout_margin="30dp"
+      android:layout_margin="8dp"
       />
 
-    <TextView
-      android:id="@+id/campinfo3"
+    <ImageView
+      android:id="@+id/clearcreek"
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
-      android:text="@string/camp_info_3"
-      android:layout_margin="20dp"
+      android:src="@drawable/clear_creak_pic"
+      android:scaleType="centerInside"
+      android:adjustViewBounds="true"
+      android:layout_margin="8dp"
       />
 
     <Button
       android:id="@+id/butt11"
       android:layout_width="match_parent"
       android:layout_height="wrap_content"
-      android:text="Villanueva"
+      android:text="@string/columbine_campground"
       android:background="@drawable/butt_background_three"
-      android:layout_margin="30dp"
+      android:layout_margin="8dp"
       />
 
-    <TextView
-      android:id="@+id/campinfo4"
+    <ImageView
+      android:id="@+id/columbine"
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
-      android:text="@string/camp_info_4"
-      android:layout_margin="20dp"
+      android:src="@drawable/columbine_pic_two"
+      android:scaleType="centerInside"
+      android:adjustViewBounds="true"
+      android:layout_margin="8dp"
       />
 
     <Button
       android:id="@+id/butt12"
       android:layout_width="match_parent"
       android:layout_height="wrap_content"
-      android:text="Bluewater Lake"
+      android:text="@string/elephant_rock"
       android:background="@drawable/butt_background_three"
-      android:layout_margin="30dp"
+      android:layout_margin="8dp"
       />
 
-    <TextView
-      android:id="@+id/campinfo5"
+    <ImageView
+      android:id="@+id/elephantrock"
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
-      android:text="@string/camp_info_5"
-      android:layout_margin="20dp"
+      android:src="@drawable/elephant_rock_pic"
+      android:scaleType="centerInside"
+      android:adjustViewBounds="true"
+      android:layout_margin="8dp"
       />
+
+
 
 
 
