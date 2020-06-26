@@ -19,34 +19,34 @@
       android:id="@+id/butt8"
       android:layout_width="match_parent"
       android:layout_height="wrap_content"
-      android:text="Manzano Mountains"
+      android:text="Jemez National Forrest"
       android:background="@drawable/butt_background_three"
       android:layout_margin="30dp"
       />
 
-    <TextView
-      android:id="@+id/campinfo"
-      android:layout_width="match_parent"
+    <ImageView
+      android:id="@+id/jemez"
+      android:layout_width="wrap_content"
       android:layout_height="wrap_content"
-      android:text="@string/camp_info_1"
-      android:layout_margin="20dp"
+      android:src="@drawable/jemez_pic"
+      android:layout_margin="10dp"
       />
 
     <Button
       android:id="@+id/butt9"
       android:layout_width="match_parent"
       android:layout_height="wrap_content"
-      android:text="Fenton Lake State Park"
+      android:text="Black Canyon"
       android:background="@drawable/butt_background_three"
       android:layout_margin="30dp"
       />
 
-    <TextView
-      android:id="@+id/campinfo2"
+    <ImageView
+      android:id="@+id/blackcanyon"
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
-      android:text="@string/camp_info_2"
-      android:layout_margin="20dp"
+      android:src="@drawable/black_canyon"
+      android:layout_margin="10dp"
       />
 
     <Button
