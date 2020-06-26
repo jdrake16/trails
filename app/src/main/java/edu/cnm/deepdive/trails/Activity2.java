@@ -15,6 +15,7 @@ public class Activity2 extends AppCompatActivity {
     setContentView(R.layout.activity_2);
 
     Button butt5 = findViewById(R.id.butt5);
+    Button butt13 = findViewById(R.id.butt13);
 
     butt5.setOnClickListener(new OnClickListener() {
       @Override

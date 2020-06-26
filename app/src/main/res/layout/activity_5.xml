@@ -13,19 +13,32 @@
     android:id="@+id/layout"
     android:orientation="vertical"
     android:layout_gravity="start"
-
     tools:context=".MainActivity">
 
+    <Button
+      android:id="@+id/butt8"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Manzano Mountains"
+      android:background="@drawable/butt_background_three"
+      android:layout_margin="30dp"
+      />
 
     <TextView
       android:id="@+id/campinfo"
       android:layout_width="match_parent"
       android:layout_height="wrap_content"
       android:text="@string/camp_info_1"
+      android:layout_margin="20dp"
+      />
 
-
-
-      android:layout_margin="50dp"
+    <Button
+      android:id="@+id/butt9"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Fenton Lake State Park"
+      android:background="@drawable/butt_background_three"
+      android:layout_margin="30dp"
       />
 
     <TextView
@@ -33,8 +46,16 @@
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
       android:text="@string/camp_info_2"
+      android:layout_margin="20dp"
+      />
 
-      android:layout_margin="50dp"
+    <Button
+      android:id="@+id/butt10"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Hyde Memorial"
+      android:background="@drawable/butt_background_three"
+      android:layout_margin="30dp"
       />
 
     <TextView
@@ -42,8 +63,16 @@
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
       android:text="@string/camp_info_3"
+      android:layout_margin="20dp"
+      />
 
-      android:layout_margin="50dp"
+    <Button
+      android:id="@+id/butt11"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Villanueva"
+      android:background="@drawable/butt_background_three"
+      android:layout_margin="30dp"
       />
 
     <TextView
@@ -51,8 +80,16 @@
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
       android:text="@string/camp_info_4"
+      android:layout_margin="20dp"
+      />
 
-      android:layout_margin="50dp"
+    <Button
+      android:id="@+id/butt12"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Bluewater Lake"
+      android:background="@drawable/butt_background_three"
+      android:layout_margin="30dp"
       />
 
     <TextView
@@ -60,16 +97,8 @@
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
       android:text="@string/camp_info_5"
-
-
-
-      android:layout_margin="50dp"
-
+      android:layout_margin="20dp"
       />
-
-
-
-
 
 
 
