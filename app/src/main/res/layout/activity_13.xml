@@ -4,12 +4,14 @@
   android:layout_height="match_parent"
   android:orientation="vertical">
 
-  <TextView
-    android:id="@+id/campinfo"
-    android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    android:text="Camping Essentials Guide"
-    android:layout_margin="20dp"
+  <ImageView
+    android:id="@+id/campstuff"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:src="@drawable/camping_essentials"
+    android:scaleType="centerInside"
+    android:adjustViewBounds="true"
+    android:layout_margin="8dp"
     />
 
 
