@@ -8,10 +8,10 @@
     android:id="@+id/campstuff"
     android:layout_width="wrap_content"
     android:layout_height="match_parent"
-    android:src="@drawable/camping_essentials"
+    android:src="@drawable/essentials_pic_three"
     android:scaleType="centerInside"
     android:adjustViewBounds="true"
-    android:layout_margin="8dp"
+    android:layout_margin="0dp"
     />
 
 
