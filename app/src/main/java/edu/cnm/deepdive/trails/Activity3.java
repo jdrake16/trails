@@ -13,18 +13,10 @@ import android.os.Bundle;
 
 public class Activity3 extends AppCompatActivity {
 
-//  private ImageView mimageView;
-//  private static final int REQUEST_IMAGE_CAPTURE = 101;
-
-
   @Override
   protected void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
     setContentView(R.layout.activity_3);
-
-////    mimageView = findViewById(R.id.imageView);
-//  }
-
 
     Button butt6 = findViewById(R.id.butt6);
     Button butt7 = findViewById(R.id.butt7);
@@ -45,26 +37,7 @@ public class Activity3 extends AppCompatActivity {
       }
     });
 
-//  public void takePicture(View view) {
-//
-//    Intent imageTakeIntent = new Intent(MediaStore.ACTION_IMAGE_CAPTURE);
-//
-//    if (imageTakeIntent.resolveActivity(getPackageManager()) != null) {
-//      startActivityForResult(imageTakeIntent, REQUEST_IMAGE_CAPTURE);
-//    }
-//
-//  }
-//
-//  @Override
-//  protected void onActivityResult(int requestCode, int resultCode, @Nullable Intent data) {
-//
-//    if (requestCode==REQUEST_IMAGE_CAPTURE && requestCode==RESULT_OK) {
-//      Bundle extras = data.getExtras();
-//      Bitmap imageBitmap = (Bitmap) extras.get("data");
-//      mimageView.setImageBitmap(imageBitmap);
-//    }
-//
-//  }
+
   }
 
 }
