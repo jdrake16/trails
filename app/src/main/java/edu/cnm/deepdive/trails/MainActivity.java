@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
       }
     });
 
-
+//  TODO add borders to buttons.
 
   }
 }
