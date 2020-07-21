@@ -22,7 +22,7 @@ public class SplashScreenActivity extends AppCompatActivity {
             .withFooterText("JA COHORT 10")
             .withBeforeLogoText("Welcome To")
             .withAfterLogoText("NM Trailmaster")
-            .withLogo(R.mipmap.ic_launcher_round); // TODO add custom icon@ drawable.nm_tm_splash.
+            .withLogo(R.drawable.nm_tm_splash_3); // TODO add custom icon@ drawable.nm_tm_splash (R.mipmap.ic_launcher_round).
         config.getHeaderTextView().setTextColor(Color.WHITE);
         config.getFooterTextView().setTextColor(Color.WHITE);
         config.getBeforeLogoTextView().setTextColor(Color.WHITE);
